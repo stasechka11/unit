@@ -38,7 +38,7 @@ public class CashBackHackerTest {
     }
 
     @Test
-    public void shouldRemain901IfAmount99() {
+    public void shouldRemain999IfAmount1() {
         CashBackHacker cashBackHacker = new CashBackHacker();
         int amount = 1;
 
